@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtNom">Nombre</string>
+    <string name="txtEmail">EMail</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtProvincia">Provincia</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="txtAficions">Aficiones</string>
+    <string name="txtCumpleaños">Cumpleaños</string>
+
+    <string name="txtFutbol">Futbol</string>
+    <string name="txtBasquet">Basket</string>
+    <string name="txtNatacion">Natacion</string>
+
+</resources>
