@@ -4,12 +4,24 @@
     <string name="txtEmail">EMail</string>
     <string name="txtPassword">Password</string>
     <string name="txtProvincia">Provincia</string>
-    <string name="txtSexo">Sexo</string>
+    <string name="txtSexe">Sexo</string>
     <string name="txtAficions">Aficiones</string>
-    <string name="txtCumpleaños">Cumpleaños</string>
+    <string name="txtAniversari">Cumpleaños</string>
 
     <string name="txtFutbol">Futbol</string>
-    <string name="txtBasquet">Basket</string>
+    <string name="txtBasquet">Basquet</string>
     <string name="txtNatacion">Natacion</string>
+
+    <string name="txtHome">Hombre</string>
+    <string name="txtDona">Mujer</string>
+
+    <string name="txtBtnEnviar">Enviar</string>
+
+    <string-array name="provincies_arrays">
+        <item>Barcelona</item>
+        <item>Tarragona</item>
+        <item>Girona</item>
+        <item>Lleida</item>
+    </string-array>
 
 </resources>
